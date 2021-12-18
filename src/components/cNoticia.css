@@ -1,0 +1,39 @@
+.card-container {
+	width: 1440px;
+	padding: -392px;
+  background-color: #C4C4C4;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 5px;
+ position: relative;
+ height: 300px;
+}
+#link{
+font-size: 1px;
+margin-top: 5px;
+}
+#link:hover{
+font-size: 2px;
+color: BFF7FA;
+}
+
+.author,
+.date {
+	font-size: 10px;
+	font-weight: 15px;
+	margin-right: 10px;
+	padding: 10px;
+	
+}
+
+.title {
+	color: black;
+	font-size: 10px;
+}
+
+.title h2 {
+	position: absolute;
+width: 1440px;
+height: 1024px;
+
+}
